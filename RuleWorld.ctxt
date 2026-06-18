@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=RuleWorld
+comment0.text=\r\nJust\ load\ the\ rules\ background\ I\ made\ in\ MS\ Paint\r\n
+comment1.params=
+comment1.target=RuleWorld()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ RuleWorld.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ started()
+comment4.params=
+comment4.target=void\ stopped()
+numComments=5

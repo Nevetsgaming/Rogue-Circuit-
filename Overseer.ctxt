@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Overseer
+comment0.text=\r\nThe\ Overseer\ is\ the\ final\ boss\ of\ the\ game\r\nIt\ can\ rush,\ and\ shoot\ in\ the\ first\ phase\r\nIn\ the\ second\ phase\ which\ it\ enters\ at\ half\ health,\ it\ spawns\ 4\ elite\ mobs\ and\ immediately\ rushes\ at\ the\ player.\r\nIt\ also\ gains\ the\ bullethell\ move,\ and\ starts\ doing\ attacks\ in\ quicker\ succession\r\n
+comment1.params=
+comment1.target=Overseer()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ shootBall()
+comment4.params=
+comment4.target=void\ randShootBall()
+comment5.params=
+comment5.target=void\ doubleShot()
+comment6.params=w
+comment6.target=void\ addedToWorld(greenfoot.World)
+comment7.params=other
+comment7.target=boolean\ touchingCircle(greenfoot.Actor)
+comment8.params=
+comment8.target=void\ startDeathAnimation()
+comment9.params=
+comment9.target=void\ deathAnimation()
+numComments=10

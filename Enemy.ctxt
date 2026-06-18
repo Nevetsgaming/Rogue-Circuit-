@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Enemy
+comment0.text=\r\n\ The\ Enemy\ class\ is\ a\ great\ example\ of\ a\ STATE\ MACHINE.\r\n\r\n\ Each\ enemy\ can\ be\ in\ one\ of\ three\ states\ at\ any\ time\:\r\n\ \ \ 1)\ ENTERING\ \u2014\ flying\ down\ from\ the\ top\ of\ the\ screen\ to\ its\ battle\ row\r\n\ \ \ 2)\ SHOOTING\ \u2014\ aiming\ at\ the\ player\ and\ firing\ a\ burst\ of\ shots\r\n\ \ \ 3)\ MOVING\ \ \ \u2014\ flying\ to\ a\ new\ random\ spot\ before\ the\ next\ burst\r\n\r\n\ Only\ one\ state\ is\ active\ at\ a\ time,\ and\ the\ enemy\ switches\ between\r\n\ them\ based\ on\ what\ just\ happened\ (reached\ destination,\ ran\ out\ of\ shots,\ etc.).\r\n\ This\ pattern\ is\ used\ in\ TONS\ of\ games\ \u2014\ bosses,\ NPCs,\ animations\u2026\r\n\r\n\ @author\ Mr.\ Cohen\r\n\ @version\ May\ 2026\r\n
+comment1.params=
+comment1.target=Enemy()
+comment1.text=\r\n\ Constructor\ \u2014\ sets\ the\ initial\ state\ and\ default\ stats.\r\n
+comment2.params=amount
+comment2.target=void\ damage(int)
+comment2.text=\r\n\ Called\ by\ a\ Projectile\ when\ this\ enemy\ gets\ hit.\r\n\ Reduces\ hp;\ if\ hp\ hits\ 0\ the\ enemy\ awards\ points\ and\ removes\ itself.\r\n
+comment3.params=
+comment3.target=void\ act()
+numComments=4

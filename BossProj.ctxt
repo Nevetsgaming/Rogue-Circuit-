@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=BossProj
+comment0.text=\r\n\ Circular\ projectile\ which\ does\ damage\ to\ the\ mainRobot\r\n
+comment1.params=
+comment1.target=BossProj()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=other
+comment3.target=boolean\ touchingCircle(greenfoot.Actor)
+comment4.params=w
+comment4.target=void\ addedToWorld(greenfoot.World)
+numComments=5

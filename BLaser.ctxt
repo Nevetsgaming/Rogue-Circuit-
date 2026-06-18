@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=BLaser
+comment0.text=\r\nDoes\ damage\ to\ enemies,\ if\ upgraded\ to\ the\ piercing\ level,\ the\ image\ changes\r\n
+comment1.params=
+comment1.target=BLaser()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=w
+comment3.target=void\ addedToWorld(greenfoot.World)
+numComments=4
